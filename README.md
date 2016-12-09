@@ -1,5 +1,7 @@
 [Magento 2 Module development](https://www.mageplaza.com/magento-2-module-development/) or **Magento 2 Hello World module** trends is increase rapidly while Magento release official version. That why we - Mageplaza - are wring about a topic that introduces how to create a simple Hello World module in Magento 2. As you know, the module is a directory that contains blocks, controllers, models, helper, etc - that are related to a specific business feature. In Magento 2, modules will be live in app/code directory of a Magento installation, with this format: `app/code/<Vendor>/<ModuleName>`. Now we will follow this steps to create a simple module which work on Magento 2 and display Hello World.
 
+## Visit [Sample module - Hello World M2 HERE](https://github.com/mageplaza/magento-2-sample-module)
+
 
 ## Magento 2 Hello World module by Mageplaza.com
 
